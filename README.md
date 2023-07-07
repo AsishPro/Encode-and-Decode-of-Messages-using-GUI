@@ -15,3 +15,8 @@ References
 https://en.m.wikipedia.org/wiki/Base64  - base64 encoding
 https://docs.python.org/3/library/tkinter.html  - tkinter library
 
+
+Output:
+![image](https://github.com/AsishPro/Encode-and-Decode-of-Messages-using-GUI/assets/106960443/af914ecb-3b4d-417a-bb0c-d9c8cbf18f93)
+
+
